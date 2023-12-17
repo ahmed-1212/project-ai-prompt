@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/989afe7f6176478392da7b1edf49971a)](https://app.codacy.com/gh/ahmed-1212/project-ai-prompt?utm_source=github.com&utm_medium=referral&utm_content=ahmed-1212/project-ai-prompt&utm_campaign=Badge_Grade)
+
 First, run the development server:
 
 ```bash
